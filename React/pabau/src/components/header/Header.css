@@ -1,0 +1,21 @@
+.header {
+  background-color: white;
+  padding: 10px 0 10px 0;
+  border-bottom: 2px outset;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header_content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}
+
+h5 {
+  color: grey;
+  padding-top: 5px;
+}
